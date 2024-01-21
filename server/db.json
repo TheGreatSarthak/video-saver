@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "id": "4",
+      "title": "Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query",
+      "description": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.",
+      "author": "JavaScript Mastery",
+      "date": "Oct 27, 2023",
+      "duration": "5:50:46",
+      "views": "344.2k",
+      "category": "react",
+      "link": "https://www.youtube-nocookie.com/embed/_W3R2VwRyF4?si=YRNVOsDn8zJbSWSQ",
+      "thumbnail": "https://i.ytimg.com/vi/_W3R2VwRyF4/maxresdefault.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework",
+      "description": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.",
+      "author": "JavaScript Mastery",
+      "date": "May 5, 2023",
+      "duration": "1:30:12",
+      "views": "1M",
+      "category": "nextjs",
+      "link": "https://www.youtube-nocookie.com/embed/wm5gMKuwSYk?si=gHo4dj_Vg2HzQVPM",
+      "thumbnail": "https://i.ytimg.com/vi/wm5gMKuwSYk/maxresdefault.jpg"
+    },
+    {
+      "id": "5688",
+      "title": "React Redux Toolkit Tutorial | React Redux Tutorial for Beginners",
+      "author": "Md Al Mamun",
+      "link": "https://www.youtube.com/embed/Mplq2dQTjzc?si=_ud_m1dCt770aH8R",
+      "thumbnail": "https://blog.dastasoft.com/_next/image?url=%2Fassets%2Fposts%2Fpreview%2Fredux-toolkit.webp&w=1920&q=75",
+      "duration": "3:56:52",
+      "views": "1k",
+      "category": "react",
+      "description": "In this video, you will learn the React Redux Toolkit by building a miniTube Project. It's a  React Redux Tutorial for Beginners.",
+      "date": "Jan 19, 2024"
+    },
+    {
+      "id": "54c1",
+      "title": "Tailwind Connect 2023 — Keynote",
+      "author": "Tailwind Labs",
+      "link": "https://www.youtube.com/embed/CLkxRnRQtDE?si=QO9WTJP6o8ydXzP2",
+      "thumbnail": "https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg",
+      "duration": "1:37:11",
+      "views": "292k",
+      "category": "tailwind",
+      "description": "The keynote from Tailwind Connect 2023, our first-ever live event that took place on June 20th, 2023, featuring presentations from Adam Wathan, Sam Selikoff, and Steve Schoger.",
+      "date": "Jan 20, 2024"
+    },
+    {
+      "id": "cb19",
+      "title": "ReactJs Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+      "author": "Sheryians Coding School",
+      "link": "https://www.youtube.com/embed/Xe8CkYZvCig?si=D6WHyhscAFFVUxO5",
+      "thumbnail": "https://i.ytimg.com/vi/Xe8CkYZvCig/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoUXG23JfuX3Gh2U7p1NAyn6adqw",
+      "duration": "1:22:50",
+      "views": "77k",
+      "category": "react",
+      "description": "🚀 Welcome to the ultimate React JS crash course for beginners! In just 1.2\nhours, you'll embark on a coding journey that will empower you to build dynamic and interactive web applications from scratch. Whether you're new to programming or looking to enhance your web development skills, this comprehensive crash course will guide you through the essentials of React JS.",
+      "date": "Jan 21, 2024"
+    }
+  ]
+}
