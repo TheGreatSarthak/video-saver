@@ -3,7 +3,7 @@ import App from "./App.jsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/home/Home.jsx";
-import SingleVideo from "./pages/video/singleVideo.jsx";
+import SingleVideo from "./pages/video/SingleVideo.jsx";
 import AddVideo from "./pages/add/AddVideo.jsx";
 import EditVideo from "./pages/edit/EditVideo.jsx";
 
