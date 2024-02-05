@@ -1,5 +1,8 @@
 {
   "version": 2,
   "builds": [{ "src": "api/server.js", "use": "@vercel/node-bridge" }],
-  "cleanUrls": true
+  "cleanUrls": true,
+  "config": {
+    "YOUR_SETTING": "value"
+  }
 }
