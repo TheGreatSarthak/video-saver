@@ -2,5 +2,11 @@
   "version": 2,
   "builds": [{ "src": "db.json", "use": "@now/static-build" }],
   "routes": [{ "src": "/(.*)", "dest": "/$1" }],
-  "cleanUrls": true
+  "cleanUrls": true,
+  "middlewares": [
+    {
+      "function": "server.js",
+      "path": "/api/*"
+    }
+  ]
 }
