@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "builds": [{ "src": "db.json", "use": "@now/static-build" }],
-  "routes": [{ "src": "/(.*)", "dest": "/$1" }],
+  "builds": [{ "src": "api/server.js", "use": "@now/node-server" }],
   "cleanUrls": true
 }
