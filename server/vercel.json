@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "builds": [{ "src": "api/server.js", "use": "@now/node-server" }],
+  "builds": [{ "src": "api/server.js", "use": "@vercel/node-bridge" }],
   "cleanUrls": true
 }
