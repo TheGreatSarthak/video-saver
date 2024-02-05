@@ -10,7 +10,10 @@ const middlewares = jsonServer.defaults();
 app.use(cors()); // Enable CORS for all routes
 
 // Handle the root path
-app.use("/", router);
+app.use("/", (req, res, next) => {
+  // Forward the request to the json-server router for handling
+  router(req, res, next);
+});
 
 // Your existing middlewares
 app.use(middlewares);
