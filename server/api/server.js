@@ -9,12 +9,8 @@ const middlewares = jsonServer.defaults();
 
 app.use(cors()); // Enable CORS for all routes
 
-app.use("/videos", router); // Handle /videos endpoint
-
-// Additional routes for individual videos and related videos
-app.use("/videos/:videoId", router); // Handle /videos/:videoId endpoint
-
-app.use("/related-videos", router); // Handle /related-videos endpoint
+// Handle the root path
+app.use("/", router);
 
 // Your existing middlewares
 app.use(middlewares);
